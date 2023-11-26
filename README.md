@@ -1,4 +1,4 @@
-# fj-nes-emu
+# fj-nes-emu (! INCOMPLETE)
  C++ NES Emulator
  
  Includes built-in emulator of the MOS 6502 microprocessor.
